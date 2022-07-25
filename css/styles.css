@@ -74,6 +74,7 @@ body {
   text-decoration: none;
   transition: color 0.5s ease,
   opacity 0.5s ease;
+  flex-shrink: 0;
 }
 
 .site-logo-site-footer {
