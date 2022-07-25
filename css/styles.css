@@ -101,6 +101,8 @@ body {
 
 /* SITENAV */
 .sitenav {
+  margin-right: 30px;
+  margin-left: 30px;
   font-size: 14px;
   letter-spacing: 2px;
   font-weight: bold;
